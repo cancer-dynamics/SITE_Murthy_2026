@@ -8,3 +8,16 @@ To showcase the capabilities of the SITE platform, we used it to experimentally 
 
 We have described the development and implementation of SITE in the following paper: **Link to paper**
 
+## Advantages of SITE
+
+The SITE platform offers several key advantages for studying cancer cell behaviour in realistic tissue environments:
+
+-  **Native tissue context:** Preserves the structural, mechanical, and cellular complexity of the tumour microenvironment, enabling more physiologically relevant observations than traditional 2D or spheroid culture systems.
+
+Live, long-term imaging: Supports continuous ex vivo imaging to capture dynamic processes such as signalling fluctuations, cell fate changes, migration, and tumour–host interactions over extended timescales.
+
+Integrated signalling readouts: Combines tissue explant culture with fluorescent biosensors to report real-time activity of pathways like ERK at single-cell resolution.
+
+Multi-modal data fusion: Couples advanced microscopy with a computational pipeline that extracts high-precision single-cell trajectories from complex 3D tissues.
+
+End-to-end experimental + computational workflow: Provides a unified system for generating, quantifying, and analysing dynamic cancer cell behaviour within organ-specific microenvironments, facilitating deeper mechanistic insight and hypothesis generation.
