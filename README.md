@@ -30,7 +30,7 @@ The SITE platform offers several key advantages for studying cancer cell behavio
 ## Usage of SITE 
 
 The following vignettes contain the explanation on how to perform the basic steps of extraction of features from ND2 files using SITE. 
--  [SITE_Image_Processing_and_Feature_Extraction.ipynb](./Image_processing_and_feature_extraction/SITE_Image_Processing_and_Feature_Extraction.ipynb)
+-  [SITE Image Processing and Feature Extraction](./Image_processing_and_feature_extraction/SITE_Image_Processing_and_Feature_Extraction.ipynb)
 
 Following completion of the SITE Image Processing and Feature Extraction pipeline, the data can be used to derive trajectories, extract experimental metadata and high-dimensional single-cell features, ERK C/N signaling dynamics and model spatiotemporal coordination and boundary libraries and contact-niche states and can be found below. 
-- [SITE_Analysis_pipeline.ipynb](./Analysis_pipeline/SITE_Analysis_pipeline.ipynb)
+- [SITE Analysis pipeline](./Analysis_pipeline/SITE_Analysis_pipeline.ipynb)
