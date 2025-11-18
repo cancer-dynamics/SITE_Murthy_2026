@@ -1,5 +1,5 @@
 # SITE
-Serial Imaging of the Tumor and microEnvironment
+**Serial Imaging of the Tumor and microEnvironment**
 
 
 We present the development and use of the Serial Imaging of Tumour and microEnvironment (SITE) platform, a system designed for live-cell, ex vivo imaging of cancer cell dynamics within their native tissue architecture. SITE integrates organoid–tissue explant cultures with fluorescent signalling biosensors and advanced live-cell microscopy, enabling simultaneous measurement of cell behaviours, physical cell–cell interactions, and quantitative signalling activity.
