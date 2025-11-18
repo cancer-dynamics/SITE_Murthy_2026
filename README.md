@@ -28,4 +28,4 @@ The SITE platform offers several key advantages for studying cancer cell behavio
 ## Usage of SITE 
 
 The following vignettes contain the explanation on how to perform the basic steps of extraction of features from ND2 files using SITE. 
--  [SITE_Image_Processing_and_Feature_Extraction.ipynb](./SITE_Image_Processing_and_Feature_Extraction.ipynb)
+-  [SITE_Image_Processing_and_Feature_Extraction.ipynb](./image_processing_and_feature_extraction/SITE_Image_Processing_and_Feature_Extraction.ipynb)
