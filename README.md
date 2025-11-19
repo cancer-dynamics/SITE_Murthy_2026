@@ -36,6 +36,4 @@ Following completion of the SITE Image Processing and Feature Extraction pipelin
 - [SITE Analysis pipeline](./Analysis_pipeline/SITE_Analysis_pipeline.ipynb)
 
 ## References
-Serial Imaging of Tumor and microEnvironment (SITE) platform for live-cell ex vivo modeling of primary and metastatic cancer dynamics
-Vaibhav Murthy, Rawan Makkawi, Francis Anderson, Carol Halsey, Elise Manalo-Hall, Sanjay Srikanth, Gabriella Tangkilisan, Ting Zheng, James McGann, Marc R. Birtwistle, Jeremy Copperman, Alexander E. Davies
-bioRxiv 2025.09.08.674915; doi: https://doi.org/10.1101/2025.09.08.674915
+- **Serial Imaging of Tumor and microEnvironment (SITE) platform for live-cell ex vivo modeling of primary and metastatic cancer dynamics**. Vaibhav Murthy, Rawan Makkawi, Francis Anderson, Carol Halsey, Elise Manalo-Hall, Sanjay Srikanth, Gabriella Tangkilisan, Ting Zheng, James McGann, Marc R. Birtwistle, Jeremy Copperman, Alexander E. Davies. bioRxiv 2025.09.08.674915; doi: https://doi.org/10.1101/2025.09.08.674915
