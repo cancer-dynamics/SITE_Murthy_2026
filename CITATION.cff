@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
-title: "SITE_Murthy_2026: scripts and tutorials for <your paper title>"
+title: "Serial Imaging of Tumor and microEnvironment (SITE) platform for live-cell ex vivo modelling of primary and metastatic cancer dynamics."
 version: v1.0.0
 date-released: 2026-11-16
 authors:
@@ -29,4 +29,3 @@ authors:
   - family-names: Davies
     given-names: Alexander E.
 repository-code: "https://github.com/cancer-dynamics/SITE_Murthy_2026"
-license: MIT
