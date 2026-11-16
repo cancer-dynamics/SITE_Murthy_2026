@@ -6,7 +6,27 @@ date-released: 2026-11-16
 authors:
   - family-names: Murthy
     given-names: Vaibhav
-    orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"
-  # add each co-author in the same format, in paper order
+  - family-names: Makkawi
+    given-names: Rawan
+  - family-names: Anderson
+    given-names: Francis
+  - family-names: Halsey
+    given-names: Carol
+  - family-names: Manalo-Hall
+    given-names: Elise
+  - family-names: Srikanth
+    given-names: Sanjay
+  - family-names: Tangkilisan
+    given-names: Gabriella
+  - family-names: Zheng
+    given-names: Ting
+  - family-names: McGann
+    given-names: James
+  - family-names: Birtwistle
+    given-names: Marc R.
+  - family-names: Copperman
+    given-names: Jeremy
+  - family-names: Davies
+    given-names: Alexander E.
 repository-code: "https://github.com/cancer-dynamics/SITE_Murthy_2026"
 license: MIT
